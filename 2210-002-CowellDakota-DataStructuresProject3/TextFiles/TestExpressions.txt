@@ -1,0 +1,12 @@
+﻿Alpha = Beta + Gamma * Delta
+Beta = Alpha * Gamma + Nu
+Dakota * Anhkhoa + Richard = Friends
+120 = 1 * 2 * 3 * 4 * 5
+Alpha = 62.5 * ( Gamma - Delta ) / 125
+A = ( ( ( ( A + B ) - C ) * D ) / ( E + 1 ) )
+A + B * C + D
+( A + B ) * ( C + D )
+A * B + C * D
+A + B + C + D
+Purple = Red + Blue )
+Angelo = ( Marko * Harpo + Zeppo / 3
